@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 77,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1095,
+                        "endColumn": 75,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 67,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 760,
+                        "endColumn": 65,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 69,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 827,
+                        "endColumn": 67,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 64,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 896,
+                        "endColumn": 62,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 71,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 69,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 72,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1023,
+                        "endColumn": 70,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 63,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-am\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 960,
+                        "endColumn": 61,
+                        "endOffset": 1019
+                    }
+                }
+            }
+        ]
+    }
+]

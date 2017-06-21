@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\incremental\\mergeNoExtensionsDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-w500dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 54,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

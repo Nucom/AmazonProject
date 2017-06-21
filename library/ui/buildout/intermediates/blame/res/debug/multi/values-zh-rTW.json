@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1074,
+                        "endColumn": 67,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 65,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 758,
+                        "endColumn": 63,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 63,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 823,
+                        "endColumn": 61,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 62,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 886,
+                        "endColumn": 60,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 69,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 67,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 64,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1010,
+                        "endColumn": 62,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 62,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-zh-rTW\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 948,
+                        "endColumn": 60,
+                        "endOffset": 1006
+                    }
+                }
+            }
+        ]
+    }
+]

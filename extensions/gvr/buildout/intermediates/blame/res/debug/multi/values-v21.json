@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\extensions\\gvr\\buildout\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\8c757d807484d29ea2ccddd20e42dface1315235\\output\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 147,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 237
+                    }
+                }
+            }
+        ]
+    }
+]

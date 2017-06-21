@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\incremental\\mergeNoExtensionsDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 111,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 111,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 111,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 107,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 107,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 84,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 84,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 101,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 101,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 125,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endColumn": 125,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 106,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 106,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 108,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 108,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 98,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 98,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 107,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 107,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 102,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 102,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 106,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 106,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 121,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\values-gl-rES\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endColumn": 121,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 80,
+                    "endOffset": 1531
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 80,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1536,
+                    "endColumn": 74,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 74,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 67,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 67,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 70,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 70,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 78,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 78,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endColumn": 71,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 71,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 65,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 65,
+                        "endOffset": 562
+                    }
+                }
+            }
+        ]
+    }
+]

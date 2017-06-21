@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ab55c2426e6b6069b20cf54f14ca4a5b5e5dffce\\output\\res\\color\\abc_primary_text_material_light.xml"
+    }
+]

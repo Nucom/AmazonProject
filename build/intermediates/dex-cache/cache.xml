@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\hls\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="652a96e8d3270750f820624e8380a9c2e693986a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_cd0f883af68d8e12cd5ba17eb87374b2087a5d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\4b0def9aace8132977b9260a637bc853dc94e58f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_92b7dd56cde9668f4048505162f27b17ad083fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\core\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a5633ef5eb89a0756c28385ab42ebf09acdbd41">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_2c5258af6209e3ad50ba5da135b4e7d5e6ef87ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\smoothstreaming\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21ad4cda2dde9ec33370aba9806b8c709776da54">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_17623603c22b06a5cdecbe4d5c3d036b98611ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\support-annotations-25.3.1_29b2ee02d316e3f9cd785066a589cd43dfaa7c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\hls\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="652a96e8d3270750f820624e8380a9c2e693986a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_cd0f883af68d8e12cd5ba17eb87374b2087a5d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\0938b3977ce0a51381dc8c52f8c447777b662a4a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\internal_impl-25.0.0_592a0047cd8c5ce6caafde68d48343a307ee20bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\494438d0d298f12a5d19cf9b0745b0876e43b25a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\internal_impl-25.0.0_6fa7a5f56c58323ee1d4aeea6764872d83dcff2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\44ec4f1125aa94e3bb526ce16534c05aaf09db53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_eb40511a1f49dd329e71b305e1f20f448205a093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\core\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a5633ef5eb89a0756c28385ab42ebf09acdbd41">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_2c5258af6209e3ad50ba5da135b4e7d5e6ef87ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f692f3320cc8de0fe05ff09a47a72b009d71f5e">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_4bede43dba14890fa1d2745d5d74d2638f18d67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_1ca7d87932050df7ccc723cd4613b1f75a0c1582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\494438d0d298f12a5d19cf9b0745b0876e43b25a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_610f6e41b091da4f09a709544789f50b38ef416c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\3d8159393b2851c8d1a0887bec88ddb971d97c1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_222bde01cebb71cb7a97ba4dd1cf27aebb475e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_755b197a185e532606245ee261a43cdcb4045000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\eb4d2707e29554940341170c0edaa6e61df3d416\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_d39861eba3e21eda5542234a0ca91d77a7092817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\dash\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03d874c5d58417fe0829cb25ba5003236c394540">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_0a921d8ddb8834b32f61f552821c0f7062e460e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\049038ddef8621e3d8587cb2d01934a3c6aaa64e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\internal_impl-25.0.0_ac923d0bce6d8c1fecdb6af40cea7256ec48314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\049038ddef8621e3d8587cb2d01934a3c6aaa64e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_14cd814c520fd3677b026c9d5ce5827854b19fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\87686d55b67a789b89049ff1100f98fad1492f1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_688f24c518aa6ada6fa3f85f4ec6a0c90a45224c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\543eafa1e178d4490ca25763fd5c0ad834a21dd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_1dd50b2121798b9c4dbba5ece08f023574b1c979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b23419251bd838220f0aca5f1889f0db5386dd62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_660997a0d4920f8377e5046d13f58ba922965c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\dash\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03d874c5d58417fe0829cb25ba5003236c394540">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_0a921d8ddb8834b32f61f552821c0f7062e460e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\smoothstreaming\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21ad4cda2dde9ec33370aba9806b8c709776da54">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_17623603c22b06a5cdecbe4d5c3d036b98611ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f692f3320cc8de0fe05ff09a47a72b009d71f5e">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_4bede43dba14890fa1d2745d5d74d2638f18d67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\0938b3977ce0a51381dc8c52f8c447777b662a4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_6ad76ed31d72d9d422217c42f2f126ec12b781a7.jar" />
+    </item>
+
+</items>
