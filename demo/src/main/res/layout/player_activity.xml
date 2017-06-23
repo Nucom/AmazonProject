@@ -61,9 +61,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:src="@android:drawable/ic_menu_send"
-        app:backgroundTint="@color/colorPrimary"/>
+
+        android:layout_marginBottom="@dimen/fab_margin_bottom"
+        android:src="@drawable/twiiterbird"
+        app:backgroundTint="@color/blue"/>
 
     <fragment
         android:id="@+id/Split_fragment2"

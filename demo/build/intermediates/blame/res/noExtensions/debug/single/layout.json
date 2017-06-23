@@ -12,12 +12,12 @@
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_header_item_layout.xml",

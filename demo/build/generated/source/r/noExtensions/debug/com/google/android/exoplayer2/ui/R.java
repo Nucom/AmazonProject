@@ -32,20 +32,20 @@ public final class R {
         public static final int use_controller = 0x7f01010b;
     }
     public static final class color {
-        public static final int exo_edit_mode_background_color = 0x7f0b0029;
+        public static final int exo_edit_mode_background_color = 0x7f0b002a;
     }
     public static final class dimen {
         public static final int exo_media_button_height = 0x7f070074;
         public static final int exo_media_button_width = 0x7f070075;
     }
     public static final class drawable {
-        public static final int exo_controls_fastforward = 0x7f020057;
-        public static final int exo_controls_next = 0x7f020058;
-        public static final int exo_controls_pause = 0x7f020059;
-        public static final int exo_controls_play = 0x7f02005a;
-        public static final int exo_controls_previous = 0x7f02005b;
-        public static final int exo_controls_rewind = 0x7f02005c;
-        public static final int exo_edit_mode_logo = 0x7f02005d;
+        public static final int exo_controls_fastforward = 0x7f020058;
+        public static final int exo_controls_next = 0x7f020059;
+        public static final int exo_controls_pause = 0x7f02005a;
+        public static final int exo_controls_play = 0x7f02005b;
+        public static final int exo_controls_previous = 0x7f02005c;
+        public static final int exo_controls_rewind = 0x7f02005d;
+        public static final int exo_edit_mode_logo = 0x7f02005e;
     }
     public static final class id {
         public static final int exo_artwork = 0x7f0d0004;

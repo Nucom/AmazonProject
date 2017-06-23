@@ -171,40 +171,40 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     simpleExoPlayerView.setControllerVisibilityListener(this);
     simpleExoPlayerView.requestFocus();
 
-    if(fragment.getVisibility()==View.GONE) {
+
       fab.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View view) {
           //Intent intent = new Intent(PlayerActivity.this, SplitActivity.class);
           // startActivity(intent);
           //simpleExoPlayerView.setLayoutParams(new ViewGroup.LayoutParams(width,height/3));
-          ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
-          params.height = height / 2;
-          simpleExoPlayerView.setLayoutParams(params);
-          fragment.setVisibility(View.VISIBLE);
-          getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
-                  new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
+          if (fragment.getVisibility() == View.GONE) {
+            ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
+            params.height = height / 2;
+            simpleExoPlayerView.setLayoutParams(params);
+            fragment.setVisibility(View.VISIBLE);
+            getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
+                    new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
+            fab.setImageResource(R.drawable.back);
+
+          }
+          else if(fragment.getVisibility()==View.VISIBLE)
+          {
+            ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
+            params.height = height;
+            simpleExoPlayerView.setLayoutParams(params);
+            fragment.setVisibility(View.GONE);
+            fab.setImageResource(R.drawable.twiiterbird);
+          }
         }
       });
-    }
 
-    if(fragment.getVisibility()==View.VISIBLE)
-    {
-      fab.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-
-          ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
-          params.height = height * 2;
-          simpleExoPlayerView.setLayoutParams(params);
-          fragment.setVisibility(View.GONE);
           //getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
                  // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
           //Intent intent = new Intent(PlayerActivity.this,SampleChooserActivity.class);
            //startActivity(intent);
-        }
-      });
-    }
+
+
     }
 
   @Override

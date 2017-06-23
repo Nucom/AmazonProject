@@ -1,4 +1,4 @@
-#Tue Jun 20 00:02:50 IST 2017
+#Sat Jun 24 00:06:13 IST 2017
 base.0=C\:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\1f\\main\\classes.dex
