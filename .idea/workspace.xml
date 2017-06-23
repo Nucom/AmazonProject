@@ -49,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlayerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/google/android/exoplayer2/demo/PlayerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.851851">
+            <state vertical-scroll-proportion="0.5">
               <caret line="196" column="57" selection-start-line="196" selection-start-column="57" selection-end-line="196" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.exolist.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="media.exolist.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/src/main/assets/media.exolist.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.956848">
+            <state vertical-scroll-proportion="-19.615385">
               <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding />
             </state>
@@ -17723,6 +17723,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/assets/media.exolist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/res/layout/player_activity.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.896552">
@@ -17739,7 +17747,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/google/android/exoplayer2/demo/PlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.851851">
+        <state vertical-scroll-proportion="0.5">
           <caret line="196" column="57" selection-start-line="196" selection-start-column="57" selection-end-line="196" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -17766,14 +17774,6 @@
             <element signature="e#23241#23242#0" expanded="true" />
             <element signature="e#23282#23283#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/assets/media.exolist.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.956848">
-          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
