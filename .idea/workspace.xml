@@ -10,68 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2487f1-4c08-4bd7-8846-6bb5d23b4fc9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\demo\build\intermediates\classes\noExtensions\debug\com\google\android\exoplayer2\demo\PlayerActivity$2.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/zip-cache/AaLdPHZbs3opTKBShZJxhCl1Pew=" afterPath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/zip-cache/AaLdPHZbs3opTKBShZJxhCl1Pew=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/PlayerActivity$1.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/PlayerActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/PlayerActivity.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/PlayerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$color.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/ui/R$color.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/ui/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$dimen.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$drawable.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/ui/R$drawable.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/ui/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$id.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$integer.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$layout.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$mipmap.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$string.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$style.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$styleable.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R.class" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/noExtensions/debug/com/google/android/exoplayer2/demo/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/transforms/dex/noExtensions/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/demo/build/intermediates/transforms/dex/noExtensions/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/pre-dexed/noExtensions/debug/debug_e1b083f955bd1fcc1863481d85073375bed3e5ad.jar" afterPath="$PROJECT_DIR$/demo/build/intermediates/pre-dexed/noExtensions/debug/debug_e1b083f955bd1fcc1863481d85073375bed3e5ad.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/outputs/apk/demo-noExtensions-debug.apk" afterPath="$PROJECT_DIR$/demo/build/outputs/apk/demo-noExtensions-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_demo_compileNoExtensionsDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/res/resources-noExtensions-debug.ap_" afterPath="$PROJECT_DIR$/demo/build/intermediates/res/resources-noExtensions-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/src/main/java/com/google/android/exoplayer2/demo/PlayerActivity.java" afterPath="$PROJECT_DIR$/demo/src/main/java/com/google/android/exoplayer2/demo/PlayerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/com/google/android/exoplayer2/demo/R.java" afterPath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/com/google/android/exoplayer2/demo/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/com/google/android/exoplayer2/ui/R.java" afterPath="$PROJECT_DIR$/demo/build/generated/source/r/noExtensions/debug/com/google/android/exoplayer2/ui/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/symbols/noExtensions/debug/R.txt" afterPath="$PROJECT_DIR$/demo/build/intermediates/symbols/noExtensions/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/src/main/res/values/color.xml" afterPath="$PROJECT_DIR$/demo/src/main/res/values/color.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/incremental/mergeNoExtensionsDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/demo/build/intermediates/incremental/mergeNoExtensionsDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/demo/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/drawable-xxxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/demo/build/intermediates/incremental/packageNoExtensionsDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/layout.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/assets/noExtensions/debug/media.exolist.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/assets/noExtensions/debug/media.exolist.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/src/main/assets/media.exolist.json" afterPath="$PROJECT_DIR$/demo/src/main/assets/media.exolist.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/incremental/mergeNoExtensionsDebugResources/merger.xml" afterPath="$PROJECT_DIR$/demo/build/intermediates/incremental/mergeNoExtensionsDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/res/merged/noExtensions/debug/layout/player_activity.xml" afterPath="$PROJECT_DIR$/demo/build/intermediates/res/merged/noExtensions/debug/layout/player_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/src/main/res/layout/player_activity.xml" afterPath="$PROJECT_DIR$/demo/src/main/res/layout/player_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/multi/values.json" afterPath="$PROJECT_DIR$/demo/build/intermediates/blame/res/noExtensions/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/build/intermediates/res/merged/noExtensions/debug/values/values.xml" afterPath="$PROJECT_DIR$/demo/build/intermediates/res/merged/noExtensions/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ExoPlayer.iws" />
@@ -17323,6 +17261,13 @@
       <option name="number" value="Default" />
       <updated>1496993835801</updated>
     </task>
+    <task id="LOCAL-00001" summary="fab functionality changed">
+      <created>1498243176311</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498243176311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -17397,6 +17342,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fab functionality changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fab functionality changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
