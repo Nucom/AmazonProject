@@ -1,266 +1,266 @@
 [
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\activity_splashscreen.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\activity_splashscreen.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\list_divider.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\list_divider.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\split_fragment2.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\split_fragment2.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\sample_chooser_activity.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\sample_chooser_activity.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\sample_chooser_activity.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\sample_chooser_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\player_activity.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\player_activity.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_simple_player_view.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\player_activity.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\player_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_action.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\track_selection_dialog.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\track_selection_dialog.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_simple_player_view.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_simple_player_view.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_playback_control_view.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\track_selection_dialog.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\track_selection_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\list_divider.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\list_divider.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\split_fragment2.xml",
+        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\layout\\split_fragment2.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\activity_splashscreen.xml",
-        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\src\\main\\res\\layout\\activity_splashscreen.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\layout\\notification_template_media_custom.xml"
     }
 ]

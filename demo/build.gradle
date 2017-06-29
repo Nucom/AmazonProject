@@ -57,5 +57,8 @@ dependencies {
     withExtensionsCompile project(path: ':extension-flac')
     withExtensionsCompile project(path: ':extension-opus')
     withExtensionsCompile project(path: ':extension-vp9')
+    // library is added by meher
+    compile 'com.google.android.gms:play-services-vision:9.8.0'
+
 
 }

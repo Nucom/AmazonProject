@@ -83,7 +83,11 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+        <!-- Added by Meher -->
+              <meta-data
+           android:name="com.google.android.gms.vision.DEPENDENCIES"
+           android:value="orc"/>
 
-    </application>
+   </application>
 
 </manifest>

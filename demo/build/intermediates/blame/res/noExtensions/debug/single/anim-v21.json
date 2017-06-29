@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

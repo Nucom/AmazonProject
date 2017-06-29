@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 167
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 222
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -69,7 +69,7 @@
                     "endOffset": 426
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -89,7 +89,7 @@
                     "endOffset": 479
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -108,7 +108,7 @@
                     "endOffset": 528
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -128,7 +128,7 @@
                     "endOffset": 701
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\attrs.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\attrs.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -148,7 +148,7 @@
                     "endOffset": 768
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\constants.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\constants.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -167,7 +167,7 @@
                     "endOffset": 2187
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\constants.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\constants.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -186,7 +186,7 @@
                     "endOffset": 2241
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\constants.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\constants.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -205,7 +205,7 @@
                     "endOffset": 2282
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -224,7 +224,7 @@
                     "endOffset": 2329
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -243,7 +243,7 @@
                     "endOffset": 2385
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -262,7 +262,7 @@
                     "endOffset": 2427
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
@@ -281,7 +281,7 @@
                     "endOffset": 2465
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -300,7 +300,7 @@
                     "endOffset": 2503
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
@@ -319,7 +319,7 @@
                     "endOffset": 2544
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -338,7 +338,7 @@
                     "endOffset": 2583
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -357,7 +357,7 @@
                     "endOffset": 2621
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -376,7 +376,7 @@
                     "endOffset": 2663
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
@@ -395,7 +395,7 @@
                     "endOffset": 2701
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -414,7 +414,7 @@
                     "endOffset": 2743
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -433,7 +433,7 @@
                     "endOffset": 2780
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -452,7 +452,7 @@
                     "endOffset": 2821
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -471,7 +471,7 @@
                     "endOffset": 2864
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\ids.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\ids.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -490,7 +490,7 @@
                     "endOffset": 2942
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -509,7 +509,7 @@
                     "endOffset": 3011
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -528,7 +528,7 @@
                     "endOffset": 3076
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -547,7 +547,7 @@
                     "endOffset": 3139
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -566,7 +566,7 @@
                     "endOffset": 3216
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -585,7 +585,7 @@
                     "endOffset": 3283
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -604,7 +604,7 @@
                     "endOffset": 3346
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -624,7 +624,7 @@
                     "endOffset": 3592
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -645,7 +645,7 @@
                     "endOffset": 3816
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -666,7 +666,7 @@
                     "endOffset": 4019
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
@@ -687,7 +687,7 @@
                     "endOffset": 4225
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
@@ -708,7 +708,7 @@
                     "endOffset": 4428
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
@@ -729,7 +729,7 @@
                     "endOffset": 4643
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -750,7 +750,7 @@
                     "endOffset": 4852
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,

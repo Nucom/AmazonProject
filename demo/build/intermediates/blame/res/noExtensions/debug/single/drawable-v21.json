@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

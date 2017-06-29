@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\all\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Priyanshi\AndroidStudioProjects\ExoPlayer\library\all\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\AmazonProjectFiles\folder\AmazonProject\library\all\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\AmazonProjectFiles\folder\AmazonProject\library\all\src\debug\shaders"/></dataSet></merger>

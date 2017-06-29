@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+        "outputFile": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 131
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 271
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 336
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 412
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -106,7 +106,7 @@
                     "endOffset": 486
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -125,7 +125,7 @@
                     "endOffset": 555
                 },
                 "from": {
-                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\ExoPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,

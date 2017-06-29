@@ -2,13 +2,22 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white">
+    android:background="@color/white"
+    android:weightSum="1">
+    /** added a text view to check if the Output of ocr is working , May be removed after Twitter Api integration
+    <TextView
+        android:id="@+id/textview_result"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:text="Ocr Output Here -- May be removed"
+        android:textSize="16dp"
+        android:layout_weight="0.21" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="36sp"
-        android:text="Hello Everyone!"
-        android:textSize="30sp"
-       />
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Twitter Feeds Here !!"
+        android:textSize="30dp" />
 
 </LinearLayout>

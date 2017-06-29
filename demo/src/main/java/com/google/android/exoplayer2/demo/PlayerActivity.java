@@ -18,6 +18,8 @@ package com.google.android.exoplayer2.demo;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Point;
 import android.net.Uri;
 import android.os.Bundle;
@@ -27,8 +29,11 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
+import android.util.Log;
+import android.util.SparseArray;
 import android.view.Display;
 import android.view.KeyEvent;
+import android.view.TextureView;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
@@ -77,6 +82,10 @@ import com.google.android.exoplayer2.upstream.DataSource;
 import com.google.android.exoplayer2.upstream.DefaultBandwidthMeter;
 import com.google.android.exoplayer2.upstream.HttpDataSource;
 import com.google.android.exoplayer2.util.Util;
+import com.google.android.gms.vision.Frame;
+import com.google.android.gms.vision.text.TextBlock;
+import com.google.android.gms.vision.text.TextRecognizer;
+
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.CookiePolicy;
@@ -172,7 +181,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     simpleExoPlayerView.requestFocus();
 
 
-      fab.setOnClickListener(new View.OnClickListener() {
+    fab.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View view) {
           //Intent intent = new Intent(PlayerActivity.this, SplitActivity.class);
@@ -190,6 +199,8 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           }
           else if(fragment.getVisibility()==View.VISIBLE)
           {
+            // Added Ocrcall
+            Ocrcall();
             ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
             params.height = height;
             simpleExoPlayerView.setLayoutParams(params);
@@ -197,7 +208,32 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
             fab.setImageResource(R.drawable.twiiterbird);
           }
         }
-      });
+    });}
+    private void Ocrcall()
+    {
+      TextView txtResult;
+      txtResult=(TextView)findViewById(R.id.textview_result);
+      final Bitmap bitmap = BitmapFactory.decodeResource(
+              getApplication().getResources(),R.drawable.pic
+      );
+
+      TextRecognizer textRecognizer = new TextRecognizer.Builder(getApplication()).build();
+      if(!textRecognizer.isOperational())
+        Log.e("ERROR","Detector dependencies are not yet available");
+      else {
+        Frame frame = new Frame.Builder().setBitmap(bitmap).build();
+        SparseArray<TextBlock> items =textRecognizer.detect(frame);
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i=0;i<items.size();i++)
+        {
+          TextBlock item =items.valueAt(i);
+          stringBuilder.append(item.getValue());
+          stringBuilder.append("\n");
+        }
+
+        txtResult.setText(stringBuilder.toString());
+      }
+    }
 
           //getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
                  // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
@@ -205,7 +241,6 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
            //startActivity(intent);
 
 
-    }
 
   @Override
   public void onNewIntent(Intent intent) {
@@ -293,6 +328,8 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   // Internal methods
 
   private void initializePlayer() {
+    // Added ocrcall
+      Ocrcall();
     Intent intent = getIntent();
     boolean needNewPlayer = player == null;
     if (needNewPlayer) {
