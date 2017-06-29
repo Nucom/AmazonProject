@@ -187,7 +187,10 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           //Intent intent = new Intent(PlayerActivity.this, SplitActivity.class);
           // startActivity(intent);
           //simpleExoPlayerView.setLayoutParams(new ViewGroup.LayoutParams(width,height/3));
+          TextureView textureView = (TextureView) simpleExoPlayerView.getVideoSurfaceView();
+          Bitmap bitmap = textureView.getBitmap();
           if (fragment.getVisibility() == View.GONE) {
+            Ocrcall(bitmap);
             ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
             params.height = height / 2;
             simpleExoPlayerView.setLayoutParams(params);
@@ -200,7 +203,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           else if(fragment.getVisibility()==View.VISIBLE)
           {
             // Added Ocrcall
-            Ocrcall();
+
             ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
             params.height = height;
             simpleExoPlayerView.setLayoutParams(params);
@@ -209,13 +212,13 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           }
         }
     });}
-    private void Ocrcall()
+    private void Ocrcall(Bitmap bitmap)
     {
       TextView txtResult;
       txtResult=(TextView)findViewById(R.id.textview_result);
-      final Bitmap bitmap = BitmapFactory.decodeResource(
-              getApplication().getResources(),R.drawable.pic
-      );
+      //final Bitmap bitmap = BitmapFactory.decodeResource(
+              //getApplication().getResources(),R.drawable.pic
+     // );
 
       TextRecognizer textRecognizer = new TextRecognizer.Builder(getApplication()).build();
       if(!textRecognizer.isOperational())
@@ -329,7 +332,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
   private void initializePlayer() {
     // Added ocrcall
-      Ocrcall();
+
     Intent intent = getIntent();
     boolean needNewPlayer = player == null;
     if (needNewPlayer) {

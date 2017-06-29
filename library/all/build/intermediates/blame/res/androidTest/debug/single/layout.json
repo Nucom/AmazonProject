@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_simple_player_view.xml",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_simple_player_view.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_simple_player_view.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_playback_control_view.xml",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
     }
 ]

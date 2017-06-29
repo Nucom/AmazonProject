@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 136
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 211
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 284
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 354
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 429
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -106,7 +106,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -125,7 +125,7 @@
                     "endOffset": 573
                 },
                 "from": {
-                    "file": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
+                    "file": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\values-mn-rMN\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,

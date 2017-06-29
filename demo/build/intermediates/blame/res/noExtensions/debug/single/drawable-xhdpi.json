@@ -1,22 +1,18 @@
 [
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\ic_banner.png",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\ic_banner.png"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\twiiterbird.png",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\twiiterbird.png"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\twiiterbird.png",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\twiiterbird.png"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\ic_banner.png",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\ic_banner.png"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\flame.png",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\flame.png"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\back.png",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\back.png"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\pic.png",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\pic.png"
-    },
-    {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\back.png",
-        "source": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\back.png"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-xhdpi\\flame.png",
+        "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\src\\main\\res\\drawable-xhdpi\\flame.png"
     }
 ]

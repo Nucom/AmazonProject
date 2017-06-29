@@ -2,22 +2,85 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="E:\AmazonProjectFiles\folder\AmazonProject\demo\build\intermediates\incremental-classes\noExtensions\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8a5fa4382ff9f0c11ca68d81adef16637311e420\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="6283ed863279ec0fbe71bb1a7d2c276fc587bef2">
-        <dex dex="E:\AmazonProjectFiles\folder\AmazonProject\demo\build\intermediates\transforms\dex\noExtensions\debug\folders\1000\10000\instant-run-bootstrap_7301d31f154aa13971c35c8584e2d6097b1fcb4d\classes.dex" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_f699e22651dd596181a049b4d5b2cba86ce3db9f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AmazonProjectFiles\folder\AmazonProject\demo\build\intermediates\incremental-runtime-classes\noExtensions\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="E:\AmazonProjectFiles\folder\AmazonProject\demo\build\intermediates\transforms\dex\noExtensions\debug\folders\1000\10000\instant-run_ca873fc2a18735883b383281a9c4e56fe03f1345\classes.dex" />
+        sha1="8f692f3320cc8de0fe05ff09a47a72b009d71f5e">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_8b3c93757a7f527a657680f1a144081decd5aca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8fbae72b241abf35907fbdc698f8098033e49138\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_3062dc7583971ac02fe73b95bfb57e401ba583a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\smoothstreaming\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21ad4cda2dde9ec33370aba9806b8c709776da54">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_cf69318ade818da56b310673a73396570c708187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_1cb020ebe9be7b4e742b578155b44b694127ef5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_49a3a0ab27c104b308fd4f23892dcb174196baf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\core\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a5633ef5eb89a0756c28385ab42ebf09acdbd41">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_aecaadc374a12eac8fe6cad35c1a94e7bef8a367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\dash\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03d874c5d58417fe0829cb25ba5003236c394540">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_60399975c2d5527e78adec0349807d7e648c8bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\hls\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="652a96e8d3270750f820624e8380a9c2e693986a">
+        <dex dex="C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\build\intermediates\pre-dexed\noExtensions\debug\classes_3a86e86c487fc9b6b2785f4e3bf371d3b885d287.jar" />
     </item>
 
 </items>

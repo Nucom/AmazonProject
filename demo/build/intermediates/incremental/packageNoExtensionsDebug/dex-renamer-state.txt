@@ -1,7 +1,4 @@
-#Thu Jun 29 20:40:08 IST 2017
-base.0=E\:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run_ca873fc2a18735883b383281a9c4e56fe03f1345
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7301d31f154aa13971c35c8584e2d6097b1fcb4d\\classes.dex
-base.1=E\:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7301d31f154aa13971c35c8584e2d6097b1fcb4d
-file.0=E\:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run_ca873fc2a18735883b383281a9c4e56fe03f1345\\classes.dex
+#Fri Jun 30 01:39:55 IST 2017
+base.0=C\:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\1f\\main\\classes.dex

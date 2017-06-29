@@ -1,66 +1,66 @@
 [
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\67b6fc52f7a76212615d577ab9fe3bf2b427a6db\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\ADMIN\\.android\\build-cache\\24e72851b9d1d30694f57602d2616eeda5655b75\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

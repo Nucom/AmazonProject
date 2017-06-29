@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\AmazonProjectFiles\\folder\\AmazonProject\\extensions\\gvr\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\extensions\\gvr\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "C:\\Users\\ADMIN\\.android\\build-cache\\bac04f90edcb96f2bb0760f803604956d9315db4\\output\\res\\values-v19\\values.xml",
+                    "file": "C:\\Android\\.android\\build-cache\\8c757d807484d29ea2ccddd20e42dface1315235\\output\\res\\values-v19\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
