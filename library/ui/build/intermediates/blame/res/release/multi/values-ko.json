@@ -1,5 +1,143 @@
 [
     {
+        "outputFile": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1077,
+                        "endColumn": 70,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 65,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 758,
+                        "endColumn": 63,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 65,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 823,
+                        "endColumn": 63,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 62,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 888,
+                        "endColumn": 60,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 69,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 67,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 65,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1012,
+                        "endColumn": 63,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 62,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 950,
+                        "endColumn": 60,
+                        "endOffset": 1008
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
         "map": [
             {

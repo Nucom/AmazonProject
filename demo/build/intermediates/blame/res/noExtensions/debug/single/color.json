@@ -8,20 +8,12 @@
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Android\\.android\\build-cache\\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\\output\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_switch_thumb.xml",
@@ -36,6 +28,118 @@
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\d16fb80b6f42c9cc585787b22f82715e419f9bf8\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\4ee1493fa79ee736fec1872d77637d5006d04827\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\4ee1493fa79ee736fec1872d77637d5006d04827\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\d16fb80b6f42c9cc585787b22f82715e419f9bf8\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
@@ -44,24 +148,20 @@
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_light.xml",
@@ -72,8 +172,8 @@
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\common_google_signin_btn_text_dark.xml",
@@ -84,11 +184,7 @@
         "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     }
 ]

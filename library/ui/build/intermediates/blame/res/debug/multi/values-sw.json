@@ -136,5 +136,143 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 88,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1123,
+                        "endColumn": 86,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 75,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 771,
+                        "endColumn": 73,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 68,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 846,
+                        "endColumn": 66,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 65,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 914,
+                        "endColumn": 63,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 82,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 80,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 75,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1048,
+                        "endColumn": 73,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 69,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-sw\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 979,
+                        "endColumn": 67,
+                        "endOffset": 1044
+                    }
+                }
+            }
+        ]
     }
 ]

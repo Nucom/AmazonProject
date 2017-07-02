@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\4ee1493fa79ee736fec1872d77637d5006d04827\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Android\\.android\\build-cache\\1d29db26c06f633fc465a48a91beb7b1cf13a1b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\f8c4a50855373205e3bbd50410fb18cc682402c2\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\4ee1493fa79ee736fec1872d77637d5006d04827\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\anim-v21\\design_appbar_state_list_animator.xml",

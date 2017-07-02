@@ -136,5 +136,143 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1127,
+                        "endColumn": 79,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 72,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 767,
+                        "endColumn": 70,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 71,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 839,
+                        "endColumn": 69,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 70,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 910,
+                        "endColumn": 68,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 78,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 76,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 77,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1050,
+                        "endColumn": 75,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 70,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-ne-rNP\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 980,
+                        "endColumn": 68,
+                        "endOffset": 1046
+                    }
+                }
+            }
+        ]
     }
 ]

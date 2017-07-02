@@ -4,14 +4,6 @@
     android:layout_height="match_parent"
     android:background="@color/white"
     android:weightSum="1">
-    /** added a text view to check if the Output of ocr is working , May be removed after Twitter Api integration
-    <TextView
-        android:id="@+id/textview_result"
-        android:layout_width="match_parent"
-        android:layout_height="67dp"
-
-        android:textSize="16dp"
-        android:layout_weight="0.21" />
 
     <TextView
         android:id="@+id/textView"
@@ -19,5 +11,11 @@
         android:layout_height="wrap_content"
         android:text="Twitter Feeds Here !!"
         android:textSize="30dp" />
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true" />
 
 </LinearLayout>

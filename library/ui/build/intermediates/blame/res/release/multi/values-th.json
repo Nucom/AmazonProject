@@ -1,5 +1,143 @@
 [
     {
+        "outputFile": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1106,
+                        "endColumn": 78,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 70,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 766,
+                        "endColumn": 68,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 73,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 836,
+                        "endColumn": 71,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 64,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 909,
+                        "endColumn": 62,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 77,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 75,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 69,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1037,
+                        "endColumn": 67,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 64,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\values-th\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 973,
+                        "endColumn": 62,
+                        "endOffset": 1033
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
         "map": [
             {

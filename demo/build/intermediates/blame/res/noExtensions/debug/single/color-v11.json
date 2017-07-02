@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Android\\.android\\build-cache\\2b9d16f7cf346fa3002ccb11535e1ad14f9a32c5\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\shika_000\\.android\\build-cache\\e32d79b309af94509f3e4ecfc77988d475b5ad49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\demo\\build\\intermediates\\res\\merged\\noExtensions\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
