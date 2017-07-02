@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_previous.png"
     },
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\exo_edit_mode_logo.png"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_fastforward.png",
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_fastforward.png"
     },
@@ -12,12 +16,36 @@
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_next.png"
     },
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_previous.png"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_play.png",
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_play.png"
     },
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_play.png"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_pause.png"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_rewind.png",
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_next.png"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\src\\main\\res\\drawable-mdpi\\exo_controls_rewind.png"
     },
     {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\exo_controls_pause.png",

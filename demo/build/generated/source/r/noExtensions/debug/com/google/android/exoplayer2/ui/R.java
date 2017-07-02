@@ -8,95 +8,95 @@ package com.google.android.exoplayer2.ui;
 
 public final class R {
     public static final class attr {
-        public static final int ad_marker_color = 0x7f0100d2;
-        public static final int ad_marker_width = 0x7f0100ca;
-        public static final int bar_height = 0x7f0100c8;
-        public static final int buffered_color = 0x7f0100d0;
+        public static final int ad_marker_color = 0x7f0100d3;
+        public static final int ad_marker_width = 0x7f0100cb;
+        public static final int bar_height = 0x7f0100c9;
+        public static final int buffered_color = 0x7f0100d1;
         public static final int controller_layout_id = 0x7f010000;
-        public static final int default_artwork = 0x7f010110;
+        public static final int default_artwork = 0x7f010113;
         public static final int fastforward_increment = 0x7f010002;
-        public static final int hide_on_touch = 0x7f010112;
-        public static final int played_color = 0x7f0100ce;
+        public static final int hide_on_touch = 0x7f010115;
+        public static final int played_color = 0x7f0100cf;
         public static final int player_layout_id = 0x7f010005;
         public static final int resize_mode = 0x7f010006;
         public static final int rewind_increment = 0x7f010007;
-        public static final int scrubber_color = 0x7f0100cf;
-        public static final int scrubber_disabled_size = 0x7f0100cc;
-        public static final int scrubber_dragged_size = 0x7f0100cd;
-        public static final int scrubber_enabled_size = 0x7f0100cb;
+        public static final int scrubber_color = 0x7f0100d0;
+        public static final int scrubber_disabled_size = 0x7f0100cd;
+        public static final int scrubber_dragged_size = 0x7f0100ce;
+        public static final int scrubber_enabled_size = 0x7f0100cc;
         public static final int show_timeout = 0x7f010008;
         public static final int surface_type = 0x7f010009;
-        public static final int touch_target_height = 0x7f0100c9;
-        public static final int unplayed_color = 0x7f0100d1;
-        public static final int use_artwork = 0x7f01010f;
-        public static final int use_controller = 0x7f010111;
+        public static final int touch_target_height = 0x7f0100ca;
+        public static final int unplayed_color = 0x7f0100d2;
+        public static final int use_artwork = 0x7f010112;
+        public static final int use_controller = 0x7f010114;
     }
     public static final class color {
-        public static final int exo_edit_mode_background_color = 0x7f0b0032;
+        public static final int exo_edit_mode_background_color = 0x7f0c0033;
     }
     public static final class dimen {
-        public static final int exo_media_button_height = 0x7f070074;
-        public static final int exo_media_button_width = 0x7f070075;
+        public static final int exo_media_button_height = 0x7f080078;
+        public static final int exo_media_button_width = 0x7f080079;
     }
     public static final class drawable {
-        public static final int exo_controls_fastforward = 0x7f02006d;
-        public static final int exo_controls_next = 0x7f02006e;
-        public static final int exo_controls_pause = 0x7f02006f;
-        public static final int exo_controls_play = 0x7f020070;
-        public static final int exo_controls_previous = 0x7f020071;
-        public static final int exo_controls_rewind = 0x7f020072;
-        public static final int exo_edit_mode_logo = 0x7f020073;
+        public static final int exo_controls_fastforward = 0x7f020071;
+        public static final int exo_controls_next = 0x7f020072;
+        public static final int exo_controls_pause = 0x7f020073;
+        public static final int exo_controls_play = 0x7f020074;
+        public static final int exo_controls_previous = 0x7f020075;
+        public static final int exo_controls_rewind = 0x7f020076;
+        public static final int exo_edit_mode_logo = 0x7f020077;
     }
     public static final class id {
-        public static final int exo_artwork = 0x7f0d0004;
-        public static final int exo_content_frame = 0x7f0d0005;
-        public static final int exo_controller_placeholder = 0x7f0d0006;
-        public static final int exo_duration = 0x7f0d0007;
-        public static final int exo_ffwd = 0x7f0d0008;
-        public static final int exo_next = 0x7f0d0009;
-        public static final int exo_overlay = 0x7f0d000a;
-        public static final int exo_pause = 0x7f0d000b;
-        public static final int exo_play = 0x7f0d000c;
-        public static final int exo_position = 0x7f0d000d;
-        public static final int exo_prev = 0x7f0d000e;
-        public static final int exo_progress = 0x7f0d000f;
-        public static final int exo_rew = 0x7f0d0010;
-        public static final int exo_shutter = 0x7f0d0011;
-        public static final int exo_subtitles = 0x7f0d0012;
-        public static final int fill = 0x7f0d001c;
-        public static final int fit = 0x7f0d001d;
-        public static final int fixed_height = 0x7f0d001e;
-        public static final int fixed_width = 0x7f0d001f;
-        public static final int none = 0x7f0d0020;
-        public static final int surface_view = 0x7f0d0021;
-        public static final int texture_view = 0x7f0d0022;
+        public static final int exo_artwork = 0x7f0e0004;
+        public static final int exo_content_frame = 0x7f0e0005;
+        public static final int exo_controller_placeholder = 0x7f0e0006;
+        public static final int exo_duration = 0x7f0e0007;
+        public static final int exo_ffwd = 0x7f0e0008;
+        public static final int exo_next = 0x7f0e0009;
+        public static final int exo_overlay = 0x7f0e000a;
+        public static final int exo_pause = 0x7f0e000b;
+        public static final int exo_play = 0x7f0e000c;
+        public static final int exo_position = 0x7f0e000d;
+        public static final int exo_prev = 0x7f0e000e;
+        public static final int exo_progress = 0x7f0e000f;
+        public static final int exo_rew = 0x7f0e0010;
+        public static final int exo_shutter = 0x7f0e0011;
+        public static final int exo_subtitles = 0x7f0e0012;
+        public static final int fill = 0x7f0e001e;
+        public static final int fit = 0x7f0e001f;
+        public static final int fixed_height = 0x7f0e0020;
+        public static final int fixed_width = 0x7f0e0021;
+        public static final int none = 0x7f0e0022;
+        public static final int surface_view = 0x7f0e0023;
+        public static final int texture_view = 0x7f0e0024;
     }
     public static final class layout {
-        public static final int exo_playback_control_view = 0x7f040029;
-        public static final int exo_simple_player_view = 0x7f04002a;
+        public static final int exo_playback_control_view = 0x7f04002a;
+        public static final int exo_simple_player_view = 0x7f04002b;
     }
     public static final class string {
-        public static final int exo_controls_fastforward_description = 0x7f060024;
-        public static final int exo_controls_next_description = 0x7f060025;
-        public static final int exo_controls_pause_description = 0x7f060026;
-        public static final int exo_controls_play_description = 0x7f060027;
-        public static final int exo_controls_previous_description = 0x7f060028;
-        public static final int exo_controls_rewind_description = 0x7f060029;
-        public static final int exo_controls_stop_description = 0x7f06002a;
+        public static final int exo_controls_fastforward_description = 0x7f070024;
+        public static final int exo_controls_next_description = 0x7f070025;
+        public static final int exo_controls_pause_description = 0x7f070026;
+        public static final int exo_controls_play_description = 0x7f070027;
+        public static final int exo_controls_previous_description = 0x7f070028;
+        public static final int exo_controls_rewind_description = 0x7f070029;
+        public static final int exo_controls_stop_description = 0x7f07002a;
     }
     public static final class style {
-        public static final int ExoMediaButton = 0x7f08001a;
-        public static final int ExoMediaButton_FastForward = 0x7f0800d4;
-        public static final int ExoMediaButton_Next = 0x7f0800d5;
-        public static final int ExoMediaButton_Pause = 0x7f0800d6;
-        public static final int ExoMediaButton_Play = 0x7f0800d7;
-        public static final int ExoMediaButton_Previous = 0x7f0800d8;
-        public static final int ExoMediaButton_Rewind = 0x7f0800d9;
+        public static final int ExoMediaButton = 0x7f09001f;
+        public static final int ExoMediaButton_FastForward = 0x7f0900d6;
+        public static final int ExoMediaButton_Next = 0x7f0900d7;
+        public static final int ExoMediaButton_Pause = 0x7f0900d8;
+        public static final int ExoMediaButton_Play = 0x7f0900d9;
+        public static final int ExoMediaButton_Previous = 0x7f0900da;
+        public static final int ExoMediaButton_Rewind = 0x7f0900db;
     }
     public static final class styleable {
         public static final int[] AspectRatioFrameLayout = { 0x7f010006 };
         public static final int AspectRatioFrameLayout_resize_mode = 0;
-        public static final int[] DefaultTimeBar = { 0x7f0100c8, 0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1, 0x7f0100d2 };
+        public static final int[] DefaultTimeBar = { 0x7f0100c9, 0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1, 0x7f0100d2, 0x7f0100d3 };
         public static final int DefaultTimeBar_ad_marker_color = 10;
         public static final int DefaultTimeBar_ad_marker_width = 2;
         public static final int DefaultTimeBar_bar_height = 0;
@@ -113,7 +113,7 @@ public final class R {
         public static final int PlaybackControlView_fastforward_increment = 1;
         public static final int PlaybackControlView_rewind_increment = 2;
         public static final int PlaybackControlView_show_timeout = 3;
-        public static final int[] SimpleExoPlayerView = { 0x7f010000, 0x7f010002, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009, 0x7f01010f, 0x7f010110, 0x7f010111, 0x7f010112 };
+        public static final int[] SimpleExoPlayerView = { 0x7f010000, 0x7f010002, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009, 0x7f010112, 0x7f010113, 0x7f010114, 0x7f010115 };
         public static final int SimpleExoPlayerView_controller_layout_id = 0;
         public static final int SimpleExoPlayerView_default_artwork = 8;
         public static final int SimpleExoPlayerView_fastforward_increment = 1;

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
         "merged": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\all\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png",
         "source": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\library\\ui\\build\\intermediates\\bundles\\default\\res\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png"
     }
