@@ -41,6 +41,9 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.ListAdapter;
+import android.widget.ListView;
+import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.google.android.exoplayer2.C;
@@ -89,6 +92,9 @@ import com.google.android.gms.vision.text.TextRecognizer;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.CookiePolicy;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 import java.util.UUID;
 import android.support.v4.app.FragmentTransaction;
 
@@ -98,12 +104,16 @@ import android.support.v4.app.Fragment;
  * An activity that plays media using {@link SimpleExoPlayer}.
  */
 public class PlayerActivity extends AppCompatActivity implements OnClickListener, ExoPlayer.EventListener,
-    PlaybackControlView.VisibilityListener {
+    PlaybackControlView.VisibilityListener, LoadJSONTask.Listener {
 
+    private ListView mListView;
+    private List<HashMap<String, String>> mAndroidMapList = new ArrayList<>();
+    private static final String KEY_TWEET = "tweet";
   public static final String DRM_SCHEME_UUID_EXTRA = "drm_scheme_uuid";
   public static final String DRM_LICENSE_URL = "drm_license_url";
   public static final String DRM_KEY_REQUEST_PROPERTIES = "drm_key_request_properties";
   public static final String PREFER_EXTENSION_DECODERS = "prefer_extension_decoders";
+    public static final String URLTen = "http://vitconnect.in/shika/index.php/api/getTen/";
 
   public static final String ACTION_VIEW = "com.google.android.exoplayer.demo.action.VIEW";
   public static final String EXTENSION_EXTRA = "extension";
@@ -148,6 +158,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+      mListView = (ListView) findViewById(R.id.list_view);
     shouldAutoPlay = true;
     clearResumePosition();
     mediaDataSourceFactory = buildDataSourceFactory(true);
@@ -214,8 +225,8 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     });}
     private void Ocrcall(Bitmap bitmap)
     {
-      TextView txtResult;
-      txtResult=(TextView)findViewById(R.id.textview_result);
+      //TextView txtResult;
+      //txtResult=(TextView)findViewById(R.id.textview_result);
       //final Bitmap bitmap = BitmapFactory.decodeResource(
               //getApplication().getResources(),R.drawable.pic
      // );
@@ -234,7 +245,30 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           stringBuilder.append("\n");
         }
 
-        txtResult.setText(stringBuilder.toString());
+        //txtResult.setText(stringBuilder.toString());
+          mListView = (ListView) findViewById(R.id.list_view);
+
+
+          //SHIKA MAKE Changes here
+          Toast.makeText(this, URLTen+((stringBuilder.toString()).substring(0,11)), Toast.LENGTH_LONG).show();
+          new LoadJSONTask(PlayerActivity.this).execute(URLTen+(stringBuilder.toString()).substring(0,11));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       }
     }
 
@@ -242,6 +276,36 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
                  // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
           //Intent intent = new Intent(PlayerActivity.this,SampleChooserActivity.class);
            //startActivity(intent);
+          @Override
+          public void onLoaded(List<AndroidVersion> androidList) {
+
+              for (AndroidVersion android : androidList) {
+
+                  HashMap<String, String> map = new HashMap<>();
+
+                  map.put(KEY_TWEET, android.getVer());
+
+                  mAndroidMapList.add(map);
+              }
+
+              loadListView();
+          }
+
+  @Override
+    public void onError() {
+
+        Toast.makeText(this, "Error !", Toast.LENGTH_SHORT).show();
+    }
+
+    private void loadListView() {
+
+        ListAdapter adapter = new SimpleAdapter(PlayerActivity.this, mAndroidMapList, R.layout.list_item,
+                new String[] {KEY_TWEET},
+                new int[] { R.id.tweet });
+
+        mListView.setAdapter(adapter);
+
+    }
 
 
 
@@ -648,6 +712,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     }
   }
 
+
   private void showControls() {
     debugRootView.setVisibility(View.VISIBLE);
   }
@@ -673,5 +738,6 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     }
     return false;
   }
+
 
 }
