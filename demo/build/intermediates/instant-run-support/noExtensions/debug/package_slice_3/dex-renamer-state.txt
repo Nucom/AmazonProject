@@ -1,0 +1,4 @@
+#Fri Jun 30 15:53:10 GST 2017
+base.0=C\:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Users\\shika_000\\Desktop\\AmazonProject\\demo\\build\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\5\\slice_3\\classes.dex
