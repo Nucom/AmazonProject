@@ -99,27 +99,31 @@ import java.util.UUID;
 import android.support.v4.app.FragmentTransaction;
 
 import android.support.v4.app.Fragment;
+import java.util.StringTokenizer;
 
 /**
  * An activity that plays media using {@link SimpleExoPlayer}.
  */
 public class PlayerActivity extends AppCompatActivity implements OnClickListener, ExoPlayer.EventListener,
-    PlaybackControlView.VisibilityListener, LoadJSONTask.Listener {
+        PlaybackControlView.VisibilityListener, LoadJSONTask.Listener {
 
-    private ListView mListView;
-    private List<HashMap<String, String>> mAndroidMapList = new ArrayList<>();
-    private static final String KEY_TWEET = "tweet";
+  private ListView mListView;
+  private List<HashMap<String, String>> mAndroidMapList = new ArrayList<>();
+  private static final String KEY_TWEET = "tweet";
   public static final String DRM_SCHEME_UUID_EXTRA = "drm_scheme_uuid";
   public static final String DRM_LICENSE_URL = "drm_license_url";
   public static final String DRM_KEY_REQUEST_PROPERTIES = "drm_key_request_properties";
   public static final String PREFER_EXTENSION_DECODERS = "prefer_extension_decoders";
-    public static final String URLTen = "http://vitconnect.in/shika/index.php/api/getTen/";
+  public static final String URLTen = "http://vitconnect.in/shika/index.php/api/getTen/";
+  public static final String URLOne = "http://vitconnect.in/shika/index.php/api/getOne/";
+  public static final String URLFive = "http://vitconnect.in/shika/index.php/api/getFive/";
+
 
   public static final String ACTION_VIEW = "com.google.android.exoplayer.demo.action.VIEW";
   public static final String EXTENSION_EXTRA = "extension";
 
   public static final String ACTION_VIEW_LIST =
-      "com.google.android.exoplayer.demo.action.VIEW_LIST";
+          "com.google.android.exoplayer.demo.action.VIEW_LIST";
   public static final String URI_LIST_EXTRA = "uri_list";
   public static final String EXTENSION_LIST_EXTRA = "extension_list";
 
@@ -158,7 +162,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-      mListView = (ListView) findViewById(R.id.list_view);
+    mListView = (ListView) findViewById(R.id.list_view);
     shouldAutoPlay = true;
     clearResumePosition();
     mediaDataSourceFactory = buildDataSourceFactory(true);
@@ -193,119 +197,141 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
 
     fab.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-          //Intent intent = new Intent(PlayerActivity.this, SplitActivity.class);
-          // startActivity(intent);
-          //simpleExoPlayerView.setLayoutParams(new ViewGroup.LayoutParams(width,height/3));
-          TextureView textureView = (TextureView) simpleExoPlayerView.getVideoSurfaceView();
-          Bitmap bitmap = textureView.getBitmap();
-          if (fragment.getVisibility() == View.GONE) {
-            Ocrcall(bitmap);
-            ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
-            params.height = height / 2;
-            simpleExoPlayerView.setLayoutParams(params);
-            fragment.setVisibility(View.VISIBLE);
-            getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
-                    new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
-            fab.setImageResource(R.drawable.back);
+      @Override
+      public void onClick(View view) {
+        //Intent intent = new Intent(PlayerActivity.this, SplitActivity.class);
+        // startActivity(intent);
+        //simpleExoPlayerView.setLayoutParams(new ViewGroup.LayoutParams(width,height/3));
+        TextureView textureView = (TextureView) simpleExoPlayerView.getVideoSurfaceView();
+        Bitmap bitmap = textureView.getBitmap();
+        if (fragment.getVisibility() == View.GONE) {
+          Ocrcall(bitmap);
+          ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
+          params.height = height / 2;
+          simpleExoPlayerView.setLayoutParams(params);
+          fragment.setVisibility(View.VISIBLE);
+          getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
+                  new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
+          fab.setImageResource(R.drawable.back);
 
-          }
-          else if(fragment.getVisibility()==View.VISIBLE)
-          {
-            // Added Ocrcall
-
-            ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
-            params.height = height;
-            simpleExoPlayerView.setLayoutParams(params);
-            fragment.setVisibility(View.GONE);
-            fab.setImageResource(R.drawable.twiiterbird);
-          }
         }
-    });}
-    private void Ocrcall(Bitmap bitmap)
-    {
-      //TextView txtResult;
-      //txtResult=(TextView)findViewById(R.id.textview_result);
-      //final Bitmap bitmap = BitmapFactory.decodeResource(
-              //getApplication().getResources(),R.drawable.pic
-     // );
-
-      TextRecognizer textRecognizer = new TextRecognizer.Builder(getApplication()).build();
-      if(!textRecognizer.isOperational())
-        Log.e("ERROR","Detector dependencies are not yet available");
-      else {
-        Frame frame = new Frame.Builder().setBitmap(bitmap).build();
-        SparseArray<TextBlock> items =textRecognizer.detect(frame);
-        StringBuilder stringBuilder = new StringBuilder();
-        for (int i=0;i<items.size();i++)
+        else if(fragment.getVisibility()==View.VISIBLE)
         {
-          TextBlock item =items.valueAt(i);
-          stringBuilder.append(item.getValue());
-          stringBuilder.append("\n");
+          // Added Ocrcall
+
+          ViewGroup.LayoutParams params = simpleExoPlayerView.getLayoutParams();
+          params.height = height;
+          simpleExoPlayerView.setLayoutParams(params);
+          fragment.setVisibility(View.GONE);
+          fab.setImageResource(R.drawable.twiiterbird);
         }
-
-        //txtResult.setText(stringBuilder.toString());
-          mListView = (ListView) findViewById(R.id.list_view);
-
-
-          //SHIKA MAKE Changes here
-          Toast.makeText(this, URLTen+((stringBuilder.toString()).substring(0,11)), Toast.LENGTH_LONG).show();
-          new LoadJSONTask(PlayerActivity.this).execute(URLTen+(stringBuilder.toString()).substring(0,11));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       }
+    });}
+  private void Ocrcall(Bitmap bitmap)
+  {
+    //TextView txtResult;
+    //txtResult=(TextView)findViewById(R.id.textview_result);
+    //final Bitmap bitmap = BitmapFactory.decodeResource(
+    //getApplication().getResources(),R.drawable.pic
+    // );
+
+    TextRecognizer textRecognizer = new TextRecognizer.Builder(getApplication()).build();
+    if(!textRecognizer.isOperational())
+      Log.e("ERROR","Detector dependencies are not yet available");
+    else {
+      Frame frame = new Frame.Builder().setBitmap(bitmap).build();
+      SparseArray<TextBlock> items =textRecognizer.detect(frame);
+      StringBuilder stringBuilder = new StringBuilder();
+      for (int i=0;i<items.size();i++)
+      {
+        TextBlock item =items.valueAt(i);
+        stringBuilder.append(item.getValue());
+        stringBuilder.append("\n");
+      }
+
+      //txtResult.setText(stringBuilder.toString());
+      mListView = (ListView) findViewById(R.id.list_view);
+      //SHIKA MAKE Changes here
+      String str=stringBuilder.toString();
+      String tok="";
+      for(int i=0;i<str.length();i++){
+        if(str.charAt(i)==' '||str.charAt(i)=='\n'){
+          new LoadJSONTask(PlayerActivity.this).execute(URLOne+tok);
+          //Toast.makeText(this, tok, Toast.LENGTH_SHORT).show();
+          tok="";
+        }
+        else{
+          tok=tok+str.charAt(i);
+        }
+      }
+      //Toast.makeText(this, str, Toast.LENGTH_SHORT).show();
+      //StringTokenizer stringOfTweets = new StringTokenizer(str,"\n");
+      /*while(stringOfTweets.hasMoreTokens()){
+        new LoadJSONTask(PlayerActivity.this).execute(URLOne+stringOfTweets.nextToken());
+        Toast.makeText(this, URLTen+stringOfTweets.nextToken(), Toast.LENGTH_LONG).show();
+      }*/
+
+      /*for (int i=0;i<items.size();i++)
+      {
+        Toast.makeText(this, URLTen+(items.valueAt(i).toString()), Toast.LENGTH_LONG).show();
+        new LoadJSONTask(PlayerActivity.this).execute(URLOne+(items.valueAt(i).toString()));
+      }*/
+      //Toast.makeText(this, URLTen+((stringBuilder.toString()).substring(0,11)), Toast.LENGTH_LONG).show();
+      //new LoadJSONTask(PlayerActivity.this).execute(URLTen+(stringBuilder.toString()).substring(0,11));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+  }
+
+  //getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
+  // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
+  //Intent intent = new Intent(PlayerActivity.this,SampleChooserActivity.class);
+  //startActivity(intent);
+  @Override
+  public void onLoaded(List<AndroidVersion> androidList) {
+
+    for (AndroidVersion android : androidList) {
+
+      HashMap<String, String> map = new HashMap<>();
+
+      map.put(KEY_TWEET, android.getVer());
+
+      mAndroidMapList.add(map);
     }
 
-          //getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
-                 // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();
-          //Intent intent = new Intent(PlayerActivity.this,SampleChooserActivity.class);
-           //startActivity(intent);
-          @Override
-          public void onLoaded(List<AndroidVersion> androidList) {
-
-              for (AndroidVersion android : androidList) {
-
-                  HashMap<String, String> map = new HashMap<>();
-
-                  map.put(KEY_TWEET, android.getVer());
-
-                  mAndroidMapList.add(map);
-              }
-
-              loadListView();
-          }
+    loadListView();
+  }
 
   @Override
-    public void onError() {
+  public void onError() {
 
-        Toast.makeText(this, "Error !", Toast.LENGTH_SHORT).show();
-    }
+    Toast.makeText(this, "Error !", Toast.LENGTH_SHORT).show();
+  }
 
-    private void loadListView() {
+  private void loadListView() {
 
-        ListAdapter adapter = new SimpleAdapter(PlayerActivity.this, mAndroidMapList, R.layout.list_item,
-                new String[] {KEY_TWEET},
-                new int[] { R.id.tweet });
+    ListAdapter adapter = new SimpleAdapter(PlayerActivity.this, mAndroidMapList, R.layout.list_item,
+            new String[] {KEY_TWEET},
+            new int[] { R.id.tweet });
 
-        mListView.setAdapter(adapter);
+    mListView.setAdapter(adapter);
 
-    }
+  }
 
 
 
@@ -351,7 +377,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
   @Override
   public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
-      @NonNull int[] grantResults) {
+                                         @NonNull int[] grantResults) {
     if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
       initializePlayer();
     } else {
@@ -380,7 +406,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
       MappedTrackInfo mappedTrackInfo = trackSelector.getCurrentMappedTrackInfo();
       if (mappedTrackInfo != null) {
         trackSelectionHelper.showSelectionDialog(this, ((Button) view).getText(),
-            trackSelector.getCurrentMappedTrackInfo(), (int) view.getTag());
+                trackSelector.getCurrentMappedTrackInfo(), (int) view.getTag());
       }
     }
   }
@@ -401,17 +427,17 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
     boolean needNewPlayer = player == null;
     if (needNewPlayer) {
       UUID drmSchemeUuid = intent.hasExtra(DRM_SCHEME_UUID_EXTRA)
-          ? UUID.fromString(intent.getStringExtra(DRM_SCHEME_UUID_EXTRA)) : null;
+              ? UUID.fromString(intent.getStringExtra(DRM_SCHEME_UUID_EXTRA)) : null;
       DrmSessionManager<FrameworkMediaCrypto> drmSessionManager = null;
       if (drmSchemeUuid != null) {
         String drmLicenseUrl = intent.getStringExtra(DRM_LICENSE_URL);
         String[] keyRequestPropertiesArray = intent.getStringArrayExtra(DRM_KEY_REQUEST_PROPERTIES);
         try {
           drmSessionManager = buildDrmSessionManager(drmSchemeUuid, drmLicenseUrl,
-              keyRequestPropertiesArray);
+                  keyRequestPropertiesArray);
         } catch (UnsupportedDrmException e) {
           int errorStringId = Util.SDK_INT < 18 ? R.string.error_drm_not_supported
-              : (e.reason == UnsupportedDrmException.REASON_UNSUPPORTED_SCHEME
+                  : (e.reason == UnsupportedDrmException.REASON_UNSUPPORTED_SCHEME
                   ? R.string.error_drm_unsupported_scheme : R.string.error_drm_unknown);
           showToast(errorStringId);
           return;
@@ -420,15 +446,15 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
       boolean preferExtensionDecoders = intent.getBooleanExtra(PREFER_EXTENSION_DECODERS, false);
       @DefaultRenderersFactory.ExtensionRendererMode int extensionRendererMode =
-          ((DemoApplication) getApplication()).useExtensionRenderers()
-              ? (preferExtensionDecoders ? DefaultRenderersFactory.EXTENSION_RENDERER_MODE_PREFER
-              : DefaultRenderersFactory.EXTENSION_RENDERER_MODE_ON)
-              : DefaultRenderersFactory.EXTENSION_RENDERER_MODE_OFF;
+              ((DemoApplication) getApplication()).useExtensionRenderers()
+                      ? (preferExtensionDecoders ? DefaultRenderersFactory.EXTENSION_RENDERER_MODE_PREFER
+                      : DefaultRenderersFactory.EXTENSION_RENDERER_MODE_ON)
+                      : DefaultRenderersFactory.EXTENSION_RENDERER_MODE_OFF;
       DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(this,
-          drmSessionManager, extensionRendererMode);
+              drmSessionManager, extensionRendererMode);
 
       TrackSelection.Factory adaptiveTrackSelectionFactory =
-          new AdaptiveTrackSelection.Factory(BANDWIDTH_METER);
+              new AdaptiveTrackSelection.Factory(BANDWIDTH_METER);
       trackSelector = new DefaultTrackSelector(adaptiveTrackSelectionFactory);
       trackSelectionHelper = new TrackSelectionHelper(trackSelector, adaptiveTrackSelectionFactory);
       lastSeenTrackGroupArray = null;
@@ -477,7 +503,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
         mediaSources[i] = buildMediaSource(uris[i], extensions[i]);
       }
       MediaSource mediaSource = mediaSources.length == 1 ? mediaSources[0]
-          : new ConcatenatingMediaSource(mediaSources);
+              : new ConcatenatingMediaSource(mediaSources);
       boolean haveResumePosition = resumeWindow != C.INDEX_UNSET;
       if (haveResumePosition) {
         player.seekTo(resumeWindow, resumePosition);
@@ -490,19 +516,19 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
   private MediaSource buildMediaSource(Uri uri, String overrideExtension) {
     int type = TextUtils.isEmpty(overrideExtension) ? Util.inferContentType(uri)
-        : Util.inferContentType("." + overrideExtension);
+            : Util.inferContentType("." + overrideExtension);
     switch (type) {
       case C.TYPE_SS:
         return new SsMediaSource(uri, buildDataSourceFactory(false),
-            new DefaultSsChunkSource.Factory(mediaDataSourceFactory), mainHandler, eventLogger);
+                new DefaultSsChunkSource.Factory(mediaDataSourceFactory), mainHandler, eventLogger);
       case C.TYPE_DASH:
         return new DashMediaSource(uri, buildDataSourceFactory(false),
-            new DefaultDashChunkSource.Factory(mediaDataSourceFactory), mainHandler, eventLogger);
+                new DefaultDashChunkSource.Factory(mediaDataSourceFactory), mainHandler, eventLogger);
       case C.TYPE_HLS:
         return new HlsMediaSource(uri, mediaDataSourceFactory, mainHandler, eventLogger);
       case C.TYPE_OTHER:
         return new ExtractorMediaSource(uri, mediaDataSourceFactory, new DefaultExtractorsFactory(),
-            mainHandler, eventLogger);
+                mainHandler, eventLogger);
       default: {
         throw new IllegalStateException("Unsupported type: " + type);
       }
@@ -510,20 +536,20 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   }
 
   private DrmSessionManager<FrameworkMediaCrypto> buildDrmSessionManager(UUID uuid,
-      String licenseUrl, String[] keyRequestPropertiesArray) throws UnsupportedDrmException {
+                                                                         String licenseUrl, String[] keyRequestPropertiesArray) throws UnsupportedDrmException {
     if (Util.SDK_INT < 18) {
       return null;
     }
     HttpMediaDrmCallback drmCallback = new HttpMediaDrmCallback(licenseUrl,
-        buildHttpDataSourceFactory(false));
+            buildHttpDataSourceFactory(false));
     if (keyRequestPropertiesArray != null) {
       for (int i = 0; i < keyRequestPropertiesArray.length - 1; i += 2) {
         drmCallback.setKeyRequestProperty(keyRequestPropertiesArray[i],
-            keyRequestPropertiesArray[i + 1]);
+                keyRequestPropertiesArray[i + 1]);
       }
     }
     return new DefaultDrmSessionManager<>(uuid,
-        FrameworkMediaDrm.newInstance(uuid), drmCallback, null, mainHandler, eventLogger);
+            FrameworkMediaDrm.newInstance(uuid), drmCallback, null, mainHandler, eventLogger);
   }
 
   private void releasePlayer() {
@@ -543,7 +569,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   private void updateResumePosition() {
     resumeWindow = player.getCurrentWindowIndex();
     resumePosition = player.isCurrentWindowSeekable() ? Math.max(0, player.getCurrentPosition())
-        : C.TIME_UNSET;
+            : C.TIME_UNSET;
   }
 
   private void clearResumePosition() {
@@ -560,7 +586,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
    */
   private DataSource.Factory buildDataSourceFactory(boolean useBandwidthMeter) {
     return ((DemoApplication) getApplication())
-        .buildDataSourceFactory(useBandwidthMeter ? BANDWIDTH_METER : null);
+            .buildDataSourceFactory(useBandwidthMeter ? BANDWIDTH_METER : null);
   }
 
   /**
@@ -572,7 +598,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
    */
   private HttpDataSource.Factory buildHttpDataSourceFactory(boolean useBandwidthMeter) {
     return ((DemoApplication) getApplication())
-        .buildHttpDataSourceFactory(useBandwidthMeter ? BANDWIDTH_METER : null);
+            .buildHttpDataSourceFactory(useBandwidthMeter ? BANDWIDTH_METER : null);
   }
 
   // ExoPlayer.EventListener implementation
@@ -618,20 +644,20 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
       if (cause instanceof DecoderInitializationException) {
         // Special case for decoder initialization failures.
         DecoderInitializationException decoderInitializationException =
-            (DecoderInitializationException) cause;
+                (DecoderInitializationException) cause;
         if (decoderInitializationException.decoderName == null) {
           if (decoderInitializationException.getCause() instanceof DecoderQueryException) {
             errorString = getString(R.string.error_querying_decoders);
           } else if (decoderInitializationException.secureDecoderRequired) {
             errorString = getString(R.string.error_no_secure_decoder,
-                decoderInitializationException.mimeType);
+                    decoderInitializationException.mimeType);
           } else {
             errorString = getString(R.string.error_no_decoder,
-                decoderInitializationException.mimeType);
+                    decoderInitializationException.mimeType);
           }
         } else {
           errorString = getString(R.string.error_instantiating_decoder,
-              decoderInitializationException.decoderName);
+                  decoderInitializationException.decoderName);
         }
       }
     }
@@ -657,11 +683,11 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
       MappedTrackInfo mappedTrackInfo = trackSelector.getCurrentMappedTrackInfo();
       if (mappedTrackInfo != null) {
         if (mappedTrackInfo.getTrackTypeRendererSupport(C.TRACK_TYPE_VIDEO)
-            == MappedTrackInfo.RENDERER_SUPPORT_UNSUPPORTED_TRACKS) {
+                == MappedTrackInfo.RENDERER_SUPPORT_UNSUPPORTED_TRACKS) {
           showToast(R.string.error_unsupported_video);
         }
         if (mappedTrackInfo.getTrackTypeRendererSupport(C.TRACK_TYPE_AUDIO)
-            == MappedTrackInfo.RENDERER_SUPPORT_UNSUPPORTED_TRACKS) {
+                == MappedTrackInfo.RENDERER_SUPPORT_UNSUPPORTED_TRACKS) {
           showToast(R.string.error_unsupported_audio);
         }
       }
