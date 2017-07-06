@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\shika_000\\Desktop\\AmazonProject\\extensions\\gvr\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 60,
-                    "endOffset": 111
-                },
-                "from": {
-                    "file": "C:\\Users\\shika_000\\.android\\build-cache\\a3ddf06b2d3edfbd017f944cf1bbdbfa300aa92a\\output\\res\\values-v19\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 148,
-                        "endColumn": 56,
-                        "endOffset": 204
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Priyanshi\\AndroidStudioProjects\\AmazonProject\\extensions\\gvr\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
         "map": [
             {

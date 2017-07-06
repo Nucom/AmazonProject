@@ -9,7 +9,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Twitter Feeds Here !!"
+        android:text="Twitter Feeds!!"
         android:textSize="30dp" />
 
     <ListView

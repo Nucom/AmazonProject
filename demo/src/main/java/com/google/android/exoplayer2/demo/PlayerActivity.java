@@ -1,18 +1,4 @@
-/*
- * Copyright (C) 2016 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+
 package com.google.android.exoplayer2.demo;
 
 import android.app.Activity;
@@ -89,9 +75,11 @@ import com.google.android.gms.vision.Frame;
 import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
 
+import java.io.UnsupportedEncodingException;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.CookiePolicy;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -156,7 +144,8 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
   private int width;
   private Split_fragment2 frag;
   private View fragment;
-
+  int ind;
+  String res;
   // Activity lifecycle
   private FloatingActionButton fab;
   @Override
@@ -242,16 +231,43 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
       Frame frame = new Frame.Builder().setBitmap(bitmap).build();
       SparseArray<TextBlock> items =textRecognizer.detect(frame);
       StringBuilder stringBuilder = new StringBuilder();
+      String keyword;
       for (int i=0;i<items.size();i++)
       {
         TextBlock item =items.valueAt(i);
-        stringBuilder.append(item.getValue());
-        stringBuilder.append("\n");
+        //stringBuilder.append(item.getValue());
+        //stringBuilder.append("\n");
+        res = item.getValue();
+        ind = res.indexOf("IND");
+        if (ind != 0 && ind != -1)
+          break;
       }
 
-      //txtResult.setText(stringBuilder.toString());
       mListView = (ListView) findViewById(R.id.list_view);
-      //SHIKA MAKE Changes here
+
+      String defaultkey = "bleedblue champions trophy";
+
+      if (ind != 0 && ind != -1) {
+        keyword = res.substring(ind);
+        try {
+          keyword = URLEncoder.encode(keyword, "UTF-8");
+          defaultkey = URLEncoder.encode(defaultkey, "UTF-8");
+        } catch (UnsupportedEncodingException e) {
+          e.printStackTrace();
+        }
+        new LoadJSONTask(PlayerActivity.this).execute(URLTen+keyword);
+        new LoadJSONTask(PlayerActivity.this).execute(URLFive+defaultkey);
+      } else {
+        new LoadJSONTask(PlayerActivity.this).execute(URLTen+defaultkey);
+      }
+
+
+      //txtResult.setText(stringBuilder.toString());
+
+
+
+      /*
+
       String str=stringBuilder.toString();
       String tok="";
       for(int i=0;i<str.length();i++){
@@ -264,6 +280,8 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
           tok=tok+str.charAt(i);
         }
       }
+
+      */
       //Toast.makeText(this, str, Toast.LENGTH_SHORT).show();
       //StringTokenizer stringOfTweets = new StringTokenizer(str,"\n");
       /*while(stringOfTweets.hasMoreTokens()){
@@ -295,8 +313,7 @@ public class PlayerActivity extends AppCompatActivity implements OnClickListener
 
 
 
-    }
-  }
+    }  }
 
   //getSupportFragmentManager().beginTransaction().add(R.id.Split_fragment2,
   // new Fragment(), Split_fragment2.class.getSimpleName()).commitAllowingStateLoss();

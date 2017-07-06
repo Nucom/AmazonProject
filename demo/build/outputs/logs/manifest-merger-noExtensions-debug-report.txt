@@ -1,206 +1,206 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:17:1-93:12
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:17:1-93:12
 	package
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:20:5-32
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:20:5-32
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:19:5-31
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:19:5-31
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:17:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:22:5-66
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:22:5-66
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:22:22-64
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:22:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:23:5-79
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:23:22-77
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:23:22-77
 uses-feature#android.software.leanback
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:24:5-86
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:24:5-86
 	android:required
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:24:60-84
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:24:60-84
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:24:19-59
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:24:19-59
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:25:5-89
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:25:5-89
 	android:required
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:25:63-87
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:25:63-87
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:25:19-62
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:25:19-62
 uses-sdk
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:26:5-73
-MERGED from [AmazonProject:library-dash:unspecified] C:\Users\shika_000\Desktop\AmazonProject\library\dash\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
-MERGED from [AmazonProject:library-hls:unspecified] C:\Users\shika_000\Desktop\AmazonProject\library\hls\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
-MERGED from [AmazonProject:library-smoothstreaming:unspecified] C:\Users\shika_000\Desktop\AmazonProject\library\smoothstreaming\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
-MERGED from [AmazonProject:library-ui:unspecified] C:\Users\shika_000\Desktop\AmazonProject\library\ui\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
-MERGED from [AmazonProject:library-core:unspecified] C:\Users\shika_000\Desktop\AmazonProject\library\core\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\shika_000\.android\build-cache\3e968a705614000ae3d181ab5fd627f1c3829a74\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\shika_000\.android\build-cache\53614f9256dd2d0fc1b91599ae89451aa9bc11a7\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shika_000\.android\build-cache\e32d79b309af94509f3e4ecfc77988d475b5ad49\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\5f2923de00500715b1e986e8b551e0d465d7faab\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\38c98dc8ca7c36054d3f4ebba0d8be1076edf681\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\shika_000\.android\build-cache\8cff177d300a4d757ce09185863ec9a904b7d7b3\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\shika_000\.android\build-cache\9ca5926c85b733ba3d02d0711200c3ce755bc4d3\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\shika_000\.android\build-cache\816693b96ed9c609b46f634cf55e7cccd3b398ca\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shika_000\.android\build-cache\7f44cc51eceea014ffa94c64037c19a342195fe2\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shika_000\.android\build-cache\902d2893a726e151142445ed094c7c79560f21b0\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shika_000\.android\build-cache\8d0c9f336fb85ad38c6cf7d1b0f68bb6f5ffd336\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shika_000\.android\build-cache\f136ea90e77cd7f2aed91aba361c69bce31fc924\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shika_000\.android\build-cache\446959d3ea096a971b64e1b08e0995d961b5e405\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shika_000\.android\build-cache\56ba50e4747518a3ab1eaf3fbd6f4065fa046a3f\output\AndroidManifest.xml:21:5-23:58
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:26:5-73
+MERGED from [AmazonProject:library-dash:unspecified] C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\dash\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
+MERGED from [AmazonProject:library-hls:unspecified] C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\hls\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
+MERGED from [AmazonProject:library-smoothstreaming:unspecified] C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\smoothstreaming\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
+MERGED from [AmazonProject:library-ui:unspecified] C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\ui\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
+MERGED from [AmazonProject:library-core:unspecified] C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\library\core\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Android\.android\build-cache\825664b8f685b48461db1fc7a5ab8d23ef1d3e19\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\0895324c6ba6cd51cfa71703df139cbb246417bc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\94917f316349dd024805930a96a026a28c158be6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f164c49352fe8d1a548b0fff9a04d6b68086b245\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\43eda10125e1a57590255903b4170d431b5740b5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Android\.android\build-cache\8fbae72b241abf35907fbdc698f8098033e49138\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Android\.android\build-cache\8a5fa4382ff9f0c11ca68d81adef16637311e420\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\c2e043cd51779452ddfd1e61cf6a77c5879332f3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\4c3fdc0ffc4acddbd7fd38e4b9964a8735600108\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\37797011374f21eb0b2c86ab94c90e455b93edb1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\01ace196f1e96785245c13f71f5fc34821ee53f8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\b23419251bd838220f0aca5f1889f0db5386dd62\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\87686d55b67a789b89049ff1100f98fad1492f1c\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:26:42-71
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:26:42-71
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:26:15-41
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:26:15-41
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:28:5-91:18
-MERGED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\shika_000\.android\build-cache\53614f9256dd2d0fc1b91599ae89451aa9bc11a7\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shika_000\.android\build-cache\e32d79b309af94509f3e4ecfc77988d475b5ad49\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\5f2923de00500715b1e986e8b551e0d465d7faab\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\38c98dc8ca7c36054d3f4ebba0d8be1076edf681\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\shika_000\.android\build-cache\8cff177d300a4d757ce09185863ec9a904b7d7b3\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\shika_000\.android\build-cache\9ca5926c85b733ba3d02d0711200c3ce755bc4d3\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\shika_000\.android\build-cache\816693b96ed9c609b46f634cf55e7cccd3b398ca\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shika_000\.android\build-cache\7f44cc51eceea014ffa94c64037c19a342195fe2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shika_000\.android\build-cache\902d2893a726e151142445ed094c7c79560f21b0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shika_000\.android\build-cache\8d0c9f336fb85ad38c6cf7d1b0f68bb6f5ffd336\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shika_000\.android\build-cache\f136ea90e77cd7f2aed91aba361c69bce31fc924\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shika_000\.android\build-cache\446959d3ea096a971b64e1b08e0995d961b5e405\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shika_000\.android\build-cache\56ba50e4747518a3ab1eaf3fbd6f4065fa046a3f\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:28:5-91:18
+MERGED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\0895324c6ba6cd51cfa71703df139cbb246417bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\94917f316349dd024805930a96a026a28c158be6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f164c49352fe8d1a548b0fff9a04d6b68086b245\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\43eda10125e1a57590255903b4170d431b5740b5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Android\.android\build-cache\8fbae72b241abf35907fbdc698f8098033e49138\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Android\.android\build-cache\8a5fa4382ff9f0c11ca68d81adef16637311e420\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\c2e043cd51779452ddfd1e61cf6a77c5879332f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\4c3fdc0ffc4acddbd7fd38e4b9964a8735600108\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\37797011374f21eb0b2c86ab94c90e455b93edb1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\01ace196f1e96785245c13f71f5fc34821ee53f8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\b23419251bd838220f0aca5f1889f0db5386dd62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\87686d55b67a789b89049ff1100f98fad1492f1c\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:29:9-49
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:29:9-49
 	android:allowBackup
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:33:9-36
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:33:9-36
 	android:icon
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:30:9-39
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:30:9-39
 	android:largeHeap
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:32:9-33
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:32:9-33
 	android:banner
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:31:9-45
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:31:9-45
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:34:9-74
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:34:9-74
 activity#com.google.android.exoplayer2.demo.Splashscreen
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:35:9-44:20
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:35:9-44:20
 	android:label
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:37:13-63
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:37:13-63
 	android:theme
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:38:13-47
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:38:13-47
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:36:13-41
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:36:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:40:17-69
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:42:17-77
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:42:27-74
 activity#com.google.android.exoplayer2.demo.SampleChooserActivity
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:46:9-65:20
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:46:9-65:20
 	android:label
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:48:13-53
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:48:13-53
 	android:configChanges
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:47:13-51
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:47:13-51
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:46:19-90
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:46:19-90
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:49:13-52:29
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:49:13-52:29
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:51:17-75
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:51:17-75
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:51:27-73
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:51:27-73
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:53:13-64:29
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:53:13-64:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:54:17-68
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:54:17-68
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:54:25-66
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:54:25-66
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:56:17-77
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:56:17-77
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:56:27-75
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:56:27-75
 data
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:57:17-46
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:57:17-46
 	android:scheme
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:57:23-44
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:57:23-44
 activity#com.google.android.exoplayer2.demo.PlayerActivity
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:67:9-85:20
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:67:9-85:20
 	android:label
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:70:13-53
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:70:13-53
 	android:launchMode
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:69:13-43
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:69:13-43
 	android:configChanges
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:68:13-122
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:68:13-122
 	android:theme
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:71:13-47
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:71:13-47
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:67:19-83
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:67:19-83
 intent-filter#android.intent.category.DEFAULT+com.google.android.exoplayer.demo.action.VIEW
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:72:13-80:29
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:72:13-80:29
 action#com.google.android.exoplayer.demo.action.VIEW
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:73:17-87
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:73:17-87
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:73:25-85
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:73:25-85
 intent-filter#android.intent.category.DEFAULT+com.google.android.exoplayer.demo.action.VIEW_LIST
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:81:13-84:29
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:81:13-84:29
 action#com.google.android.exoplayer.demo.action.VIEW_LIST
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:82:17-92
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:82:17-92
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:82:25-90
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:82:25-90
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:87:15-89:33
+ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:87:15-89:33
 	android:value
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:89:12-31
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:89:12-31
 	android:name
-		ADDED from C:\Users\shika_000\Desktop\AmazonProject\demo\src\main\AndroidManifest.xml:88:12-69
+		ADDED from C:\Users\Priyanshi\AndroidStudioProjects\AmazonProject\demo\src\main\AndroidManifest.xml:88:12-69
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\shika_000\.android\build-cache\3e968a705614000ae3d181ab5fd627f1c3829a74\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\shika_000\.android\build-cache\53614f9256dd2d0fc1b91599ae89451aa9bc11a7\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shika_000\.android\build-cache\e32d79b309af94509f3e4ecfc77988d475b5ad49\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\5f2923de00500715b1e986e8b551e0d465d7faab\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shika_000\.android\build-cache\38c98dc8ca7c36054d3f4ebba0d8be1076edf681\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shika_000\.android\build-cache\7f44cc51eceea014ffa94c64037c19a342195fe2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shika_000\.android\build-cache\902d2893a726e151142445ed094c7c79560f21b0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shika_000\.android\build-cache\8d0c9f336fb85ad38c6cf7d1b0f68bb6f5ffd336\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shika_000\.android\build-cache\f136ea90e77cd7f2aed91aba361c69bce31fc924\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shika_000\.android\build-cache\446959d3ea096a971b64e1b08e0995d961b5e405\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shika_000\.android\build-cache\56ba50e4747518a3ab1eaf3fbd6f4065fa046a3f\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Android\.android\build-cache\825664b8f685b48461db1fc7a5ab8d23ef1d3e19\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\0895324c6ba6cd51cfa71703df139cbb246417bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\94917f316349dd024805930a96a026a28c158be6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\f164c49352fe8d1a548b0fff9a04d6b68086b245\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\43eda10125e1a57590255903b4170d431b5740b5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\c2e043cd51779452ddfd1e61cf6a77c5879332f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\4c3fdc0ffc4acddbd7fd38e4b9964a8735600108\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\37797011374f21eb0b2c86ab94c90e455b93edb1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\01ace196f1e96785245c13f71f5fc34821ee53f8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\b23419251bd838220f0aca5f1889f0db5386dd62\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\87686d55b67a789b89049ff1100f98fad1492f1c\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\shika_000\.android\build-cache\4ee1493fa79ee736fec1872d77637d5006d04827\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\09e489980df1e629d632c12fba20e0c8bd107450\output\AndroidManifest.xml:26:9-47
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\shika_000\.android\build-cache\d16fb80b6f42c9cc585787b22f82715e419f9bf8\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android\.android\build-cache\ec9ad71cdbeb974edbdaf43235ad8b91f60e3ea6\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\shika_000\.android\build-cache\816693b96ed9c609b46f634cf55e7cccd3b398ca\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\shika_000\.android\build-cache\816693b96ed9c609b46f634cf55e7cccd3b398ca\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\shika_000\.android\build-cache\816693b96ed9c609b46f634cf55e7cccd3b398ca\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android\.android\build-cache\d9f3f8a78e9bdb57c2fea0a3b8d163237dd951ee\output\AndroidManifest.xml:20:20-65
